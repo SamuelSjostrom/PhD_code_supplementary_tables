@@ -2,7 +2,7 @@ This repository contains the R code and supplementary tables from my PhD project
 
 Descriptions of the files listed herein are provided below. The first sheet of each .xlsx file contains a brief description of each supplementary table. 
 
-* PhD_code_final.Rmd: contains the code required to replicate the analyses conducted in this PhD project, organised in order of chapters 3-6 of the thesis (see description at the top of the document for more details).
+* PhD_code_final.Rmd: contains the code required to replicate the analyses conducted in this PhD project, organised in order of chapters 3-6 of the thesis (see description at the top of this document for more details).
 * Thesis_chapter_1_supplementary_table: supplementary table from chapter 1 ('Background and literature review').
 * Thesis_chapter_3_supplementary_tables: supplementary tables from chapter 3 ('Processing and characterization of bone marrow fat fraction measurements').
 * Thesis_chapter_4_supplementary_tables: supplementary tables from chapter 4 ('Bone marrow adiposity distribution as an associate and predictor of type 2 diabetes').
